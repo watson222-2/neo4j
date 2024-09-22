@@ -1,0 +1,5 @@
+jupyter
+neo4j
+pandas
+matplotlib
+seaborn
